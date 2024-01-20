@@ -1,16 +1,22 @@
-# gender_predictor
+# Gender Predictor Flutter App 🤖💃🕵️‍♂️
 
-A new Flutter project.
+**Gender Predictor Flutter App**, a fun and interactive application that predicts the gender associated with a given name using the Genderize API!
 
-## Getting Started
+## Features 🌟
 
-This project is a starting point for a Flutter application.
+- **Gender Prediction:** Enter a name and get real-time predictions about the associated gender.
+- **Splash Screen:** Engage users with a visually appealing splash screen during app launch.
+- **Probability Display:** View the probability of the predicted gender for the entered name.
+- **User-Friendly Interface:** Sleek design with an easy-to-use interface for an enjoyable user experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used 🚀
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 📱
+- Dart 🎯
+- [Genderize API](https://genderize.io/) 🌐
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Getting Started 🏁
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/dhara-maru/Gender-Predictor-Flutter.git
