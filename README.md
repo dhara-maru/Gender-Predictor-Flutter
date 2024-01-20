@@ -1,6 +1,6 @@
 # Gender Predictor Flutter App 🤖💃🕵️‍♂️
 
-**Gender Predictor Flutter App**, a fun and interactive application that predicts the gender associated with a given name using the Genderize API!
+**Gender Predictor Flutter App**, a fun and interactive application that predicts the gender associated with a given name using the Genderize API !
 
 ## Features 🌟
 
